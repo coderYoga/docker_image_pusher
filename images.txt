@@ -1,2 +1,2 @@
 nacos/nacos-server:v2.2.0
-node:18-alpine
+redis:7.0.15
