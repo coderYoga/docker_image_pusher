@@ -1,6 +1,1 @@
-nacos/nacos-server:v2.2.0
-nacos/nacos-server:v2.2.3
-redis:7.0.15
-kong:3.5
-pantsel/konga:latest
-postgres:12.12
+postgres:11.23
