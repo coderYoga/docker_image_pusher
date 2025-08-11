@@ -1,2 +1,3 @@
-ghcr.io/suna-ai/suna-backend:latest
-redis:8-alpine
+ghcr.io/astral-sh/uv:python3.11-alpine
+node:22-slim
+redis:7-alpine
