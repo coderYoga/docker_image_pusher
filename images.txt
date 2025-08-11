@@ -1,1 +1,2 @@
-rabbitmq:3.13-management
+ghcr.io/suna-ai/suna-backend:latest
+redis:8-alpine
