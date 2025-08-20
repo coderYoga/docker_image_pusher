@@ -1,1 +1,1 @@
-browserless/chrome:latest
+browserless/chrome:api-latest
