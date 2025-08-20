@@ -1,1 +1,1 @@
-ghcr.io/mxschmitt/playwright-python:latest
+browserless/chrome:latest
