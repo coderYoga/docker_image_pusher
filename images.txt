@@ -1,1 +1,1 @@
-mcr.microsoft.com/playwright/python:latest
+ghcr.io/mxschmitt/playwright-python:latest
